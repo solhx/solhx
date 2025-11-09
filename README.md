@@ -36,9 +36,9 @@
 ---
 
 ### 📫 Connect with Me:
-- GitHub: [@solhx](https://github.com/solhx)  
+- GitHub: [@solhx](https://github.com/solhx)
 - Email: **hossamhassan112003@gmail.com**
-- LinkedIn: [Hossam Hassan](https://www.linkedin.com/in/hossam-hassan-132055244/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) 
+- LinkedIn: [![Hossam Hassan](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossam-hassan-132055244/)
 
 ---
 
@@ -48,3 +48,4 @@
 ---
 
 > *"Code like a glitch, think like a soul."* ⚡
+
