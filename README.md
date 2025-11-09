@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm Hossam Hassan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&duration=3500&pause=100&color=F7F7F7&center=true&width=435&lines=AI+Developer;Web+Developer;Game+Dev;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&duration=3500&pause=100&color=F7F7F7&center=true&width=435&lines=Front-End+Developer;Back-End+Developer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
