@@ -1,51 +1,78 @@
-# 👋 Hey, I'm **HOSSSAM**
+# 👋 Hello, World! I'm Hossam Hassan
 
-🚀 Passionate about **tech, gaming, and creative coding**  
-💡 Exploring the world of **AI, Web Development, and Design**  
-⚙️ Always building, breaking, and learning something new  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=31&duration=3500&pause=100&color=F7F7F7&center=true&width=435&lines=AI+Developer;Web+Developer;Game+Dev;Tech+Enthusiast" alt="Typing SVG" />
+</div>
+
+## 🚀 About Me
+
+> "Code like a glitch, think like a soul."  
+
+I do a creative Web page – it's pretty cool. I name myself **solhx** to stand out.
+
+<img align="right" alt="Coding" width="360"  src="https://camo.githubusercontent.com/ad38c424479dba43b6ded15fecfde6b53cf9fcd6ff3dc7715d5bcb43f8bbefb8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966">
+
+- 🔭 I'm currently working on personal **LMS project**  
+- 🌱 Learning **Next.js, Node.js, React,**  
+- 👯 Looking to collaborate on **innovative tech**  
+- 💬 Ask me about **anime, Web Development, and Games**  
+- 😼 I like Cats  
 
 ---
 
-### 🧠 Currently:
-- 🔭 Working on personal projects & experiments  
-- 🌱 Learning advanced **Node.js**, **React**, and **Next**  
-- 💬 Open for collaborations on innovative tech or gaming ideas  
+## 🛠️ Tech Stack
 
----
+<div align="center">
 
-### 🧰 Tech Stack & Tools
-
+### Web & App Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Collaboration Tools
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=fff)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=fff)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
+
+</div>
 
 ---
 
-### 🕹️ About Me:
-- 🎮 Gamer | 💻 Developer | 🎨 Creator  
-- 🧩 Love solving complex problems and designing cool stuff  
-- ⚡ Fun fact: I see bugs as puzzles, not problems 😅  
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=solhx&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solhx&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
 ---
 
-### 📫 Connect with Me:
-- GitHub: [@solhx](https://github.com/solhx)
-- Email: **hossamhassan112003@gmail.com**
-- LinkedIn: [![Hossam Hassan](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossam-hassan-132055244/)
+## 📈 Activity Graph
+
+<div align="center">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=solhx&theme=tokyo-night" />
+</div>
 
 ---
 
-### 📊 GitHub Stats
-[![Hossam's GitHub stats](https://github-readme-stats.vercel.app/api?username=solhx&show_icons=true&theme=dark)](https://github.com/solhx)
 
----
 
-> *"Code like a glitch, think like a soul."* ⚡
+<div align="center">
+  **Thanks for visiting my profile! Have a great day!** 👋
+</div>
+
 
