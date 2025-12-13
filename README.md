@@ -50,14 +50,7 @@ I do a creative Web page – it's pretty cool. I name myself **solhx** to stand 
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solhx&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solhx&layout=compact&theme=dark" alt="Top Languages" />
-</div>
 
 ---
 
